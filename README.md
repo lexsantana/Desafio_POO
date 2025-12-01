@@ -40,13 +40,21 @@ O objetivo foi refatorar o sistema bancário, substituindo estruturas baseadas e
 ### 📂 Estrutura do Projeto
 
 Desafio_POO/
+
 │
-├── Resolucao_desafio_poo.py      *# Implementação completa do sistema bancário em POO*
+
+├── Resolucao_desafio_poo.py _-> Implementação completa do sistema bancário em POO_
+
 ├── .gitignore
+
 ├── README.md
+
 │
+
 └── tests/
-    └── test_conta.py             *# Testes com pytest para validar as operações básicas*
+        
+            └── test_conta.py _-> Testes com pytest para validar as operações básicas_ 
+
 
 
 ------------------------------------------------------------
